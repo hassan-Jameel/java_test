@@ -17,7 +17,7 @@ public class class1 {
 
 
 System.out.println("wael is nassan  ");
-System.out.println("kharab bil had  ");
+System.out.println("kharab bil had");
 	}
 
 }
