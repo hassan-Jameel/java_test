@@ -16,7 +16,8 @@ public class class1 {
 		// TODO Auto-generated method stub
 
 
-System.out.println("kharab bil had ");
+System.out.println("wael is nassan  ");
+System.out.println("kharab bil had  ");
 	}
 
 }
